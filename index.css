@@ -34,6 +34,7 @@
     padding: 10px 15px;
     border: none;
     animation: blinking 1s infinite;
+    cursor: pointer;
 }
 .btn:hover{
     background-color: black;
@@ -50,11 +51,21 @@ body {
     
 }
 
-.btn1 {
+#btn1 {
     background-color: cornflowerblue;
     opacity: 80%;
     width: 15%;
     padding: 10px ;
     margin: 10px;
     float: right;
+    cursor: pointer;
+}
+#btn2{
+    background-color: cornflowerblue;
+    opacity: 80%;
+    width: 15%;
+    padding: 10px ;
+    margin: 10px;
+    float: right;
+    cursor: pointer;
 }
